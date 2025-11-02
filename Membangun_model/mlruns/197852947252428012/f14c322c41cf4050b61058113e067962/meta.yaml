@@ -1,0 +1,15 @@
+artifact_uri: file:D:/PROJEK IT/Eksperimen_SML_Atika Pratiwi Harahap/Membangun_model/mlruns/197852947252428012/f14c322c41cf4050b61058113e067962/artifacts
+end_time: 1762011558705
+entry_point_name: ''
+experiment_id: '197852947252428012'
+lifecycle_stage: active
+run_id: f14c322c41cf4050b61058113e067962
+run_name: RandomForest_Tuned_ManualLog
+run_uuid: f14c322c41cf4050b61058113e067962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762011549549
+status: 3
+tags: []
+user_id: ASUS

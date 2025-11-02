@@ -1,0 +1,15 @@
+artifact_uri: file:D:/PROJEK IT/Eksperimen_SML_Atika Pratiwi Harahap/Membangun_model/mlruns/239590409148588266/3b6c5c3f287243cca0469ab8e1bfe8d9/artifacts
+end_time: 1762011504909
+entry_point_name: ''
+experiment_id: '239590409148588266'
+lifecycle_stage: active
+run_id: 3b6c5c3f287243cca0469ab8e1bfe8d9
+run_name: LogisticRegression_Autolog_Baseline
+run_uuid: 3b6c5c3f287243cca0469ab8e1bfe8d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762011497781
+status: 3
+tags: []
+user_id: ASUS
